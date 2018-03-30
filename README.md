@@ -1,29 +1,9 @@
-# README #
+# Instructions #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+1. Put the module in addons folder and restart.
 
-### What is this repository for? ###
+2. Update app list and install the module.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+3. Go to company. There is a new page notify vendors. Add vendors there.
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact# auto-send-po
+4. The scheduler will run once a day by default. You can manually edit this in scheduled actions.
